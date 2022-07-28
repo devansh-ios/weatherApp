@@ -1,15 +1,13 @@
 # weatherApp
 Created with CodeSandbox
 
-Why : want to leaen to work with API 
+Why : want to learn to work with API 
 
 API : openWeatherApp 
 
 language :
 html
-
 css
-
 javascript
 
 output:
