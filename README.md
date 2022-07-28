@@ -1,5 +1,4 @@
 # weatherApp
-Created with CodeSandbox
 
 Why : want to learn to work with API 
 
