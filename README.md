@@ -1,6 +1,8 @@
 # weatherApp
 
-Why : want to learn to work with API 
+What I learn 
+
+to work with API 
 
 API : openWeatherApp 
 
